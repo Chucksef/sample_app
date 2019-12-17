@@ -8,6 +8,7 @@ end
 source 'https://rubygems.org'
 
 gem 'rails'
+gem 'bootstrap-sass', '3.3.7'
 gem 'puma'
 gem 'sass-rails'
 gem 'uglifier'
